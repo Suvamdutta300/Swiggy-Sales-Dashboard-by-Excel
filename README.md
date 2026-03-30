@@ -14,14 +14,20 @@ This project is a data analytics dashboard based on Swiggy food delivery data. I
 
 # Features
 1.Order trend analysis
+
 2. Revenue insights
+
 3. Top restaurants & cuisines
+
 4. Delivery performance tracking
+
 5. Customer behavior analysis
 
 # Tools & Technologies Used
 1.Microsoft Excel 
+
 2.Data Cleaning & Data Analysis
+
 3.Data Visualization Techniques
 
 # Dataset
@@ -29,9 +35,13 @@ This project is a data analytics dashboard based on Swiggy food delivery data. I
 The dataset used in this project contains information such as:
 
 1.Order details
+
 2.Restaurant names
+
 3.Delivery time
+
 4.Customer location
+
 5.Revenue data
 
 
@@ -54,7 +64,9 @@ The dataset used in this project contains information such as:
    
 # Learnings
 1.Improved data cleaning skills
+
 2.Gained experience in dashboard creation
+
 3.Learned how to extract insights from raw data
 
 # Future Improvements
