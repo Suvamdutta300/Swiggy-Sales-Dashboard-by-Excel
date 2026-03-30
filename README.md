@@ -33,3 +33,5 @@ The dataset used in this project contains information such as:
 3.Delivery time
 4.Customer location
 5.Revenue data
+
+Swiggy Raw Data Excel.xlsx
