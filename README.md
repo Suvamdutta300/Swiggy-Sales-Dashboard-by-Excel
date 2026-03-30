@@ -11,3 +11,25 @@ Identify top-performing restaurants
 Understand customer behavior
 Track revenue and sales performance
 Improve decision-making using data insights
+
+# Features
+1.Order trend analysis
+2. Revenue insights
+3. Top restaurants & cuisines
+4. Delivery performance tracking
+5. Customer behavior analysis
+
+# Tools & Technologies Used
+1.Microsoft Excel 
+2.Data Cleaning & Data Analysis
+3.Data Visualization Techniques
+
+# Dataset
+
+The dataset used in this project contains information such as:
+
+1.Order details
+2.Restaurant names
+3.Delivery time
+4.Customer location
+5.Revenue data
